@@ -21,8 +21,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [gihub](https://github.com/darkquail/recipe-page)
-- Live Site URL: [live-preview](https://darkquail.github.io/darkquail/recipe-page/index)
+- Solution URL: [github](https://github.com/darkquail/recipe-page)
+- Live Site URL: [live-preview](https://darkquail.github.io/recipe-page/index.html)
 
 ## My process
 
