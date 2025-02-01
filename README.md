@@ -34,6 +34,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Useful resources
 
-- [css tricks about the gap after the list marker](hhttps://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/) 
+- [css tricks about the gap after the list marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/) 
 
 - [Sticky Footer](https://css-tricks.com/couple-takes-sticky-footer/)
